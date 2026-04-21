@@ -1,0 +1,1 @@
+{\n  "name": "randomwebgame",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "node server/index.js",\n    "dev": "vite"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "prisma": "^2.30.0",\n    "@prisma/client": "^2.30.0"\n  },\n  "devDependencies": {\n    "vite": "^2.5.0"\n  }\n}
